@@ -1,0 +1,15 @@
+# Secrets - NEVER commit API keys
+Secrets.swift
+
+# Xcode user-specific files
+*.xcuserstate
+xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
